@@ -1,4 +1,5 @@
 - 👋 Hi, I’m kanyanat
+- 📫 How to reach me Email : nanata6592@gmail.com ,Tel : 0966916592
 
 
 <!--- - 📫 How to reach me Email : nanata6592@gmail.com ,Tel : 0966916592
