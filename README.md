@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kanyanat nanta</h1>
-<h3 align="center">UX/UI Frontend Backend Wed Developer</h3>
+<h1 >Hi 👋, I'm Kanyanat nanta</h1>
+<h3 >UX/UI Frontend Backend Wed Developer</h3>
+
+I'm a student in Faculty of Business Computer from Mahasarakham University, I want to improve in my coding skills and more productivity in my work field.
 
 - 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1TQhiWsDsBo5ae3IbySRA0b3OnbMJ_rch/view?usp=share_link)
 
