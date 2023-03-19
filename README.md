@@ -3,9 +3,9 @@
 
 I'm a student in Faculty of Business Computer from Mahasarakham University, I want to improve in my coding skills and more productivity in my work field.
 
-- 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1TQhiWsDsBo5ae3IbySRA0b3OnbMJ_rch/view?usp=share_link)
-
 - 🌱 I’m currently learning **Ajax JQuery**
+
+- 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1TQhiWsDsBo5ae3IbySRA0b3OnbMJ_rch/view?usp=share_link)
 
 - 📫 How to reach me **nanta6592@gmail.com**
 
@@ -13,6 +13,8 @@ I'm a student in Faculty of Business Computer from Mahasarakham University, I wa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/__84kf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__84kf" height="30" width="40" /></a>
+<a href="https://medium.com/@62010912542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@62010912542" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
