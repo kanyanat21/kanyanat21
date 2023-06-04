@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Kanyanat nanta</h1>
-<h3 >UX/UI Designer, Frontend Developer,Backend Developer,PHP Developer</h3>
+<h3 >UX/UI Designer, Frontend Developer, Backend Developer, PHP Developer</h3>
 
 I'm a student in Faculty of Business Computer from Mahasarakham University, I want to improve in my coding skills and more productivity in my work field.
 
