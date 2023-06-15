@@ -7,6 +7,8 @@ I'm a student in Faculty of Business Computer from Mahasarakham University, I wa
 
 - 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1TQhiWsDsBo5ae3IbySRA0b3OnbMJ_rch/view?usp=share_link)
 
+- 📚 Portfolio [Portfolio]([https://drive.google.com/file/d/1TQhiWsDsBo5ae3IbySRA0b3OnbMJ_rch/view?usp=share_link](https://kanyanat-portfolio.netlify.app/))
+
 - 📫 How to reach me **nanta6592@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
