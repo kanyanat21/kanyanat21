@@ -1,11 +1,11 @@
 <h1 >Hi 👋, I'm Kanyanat nanta</h1>
-<h3 >UX/UI Designer, Frontend Developer, Backend Developer, PHP Developer</h3>
+<h3 >UX/UI Designer, Software Engineer, Backend Developer, PHP Developer</h3>
 
 I'm a student in Faculty of Business Computer from Mahasarakham University, I want to improve in my coding skills and more productivity in my work field.
 
 - 🌱 I’m currently learning **Ajax JQuery**
 
-- 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1TQhiWsDsBo5ae3IbySRA0b3OnbMJ_rch/view?usp=share_link)
+- 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1aylbir91cWfO3xa8JSFeNHuMb6v4EcaU/view?usp=sharing)
 
 - 📚 Portfolio [Portfolio](https://kanyanat-portfolio.netlify.app/)
 
