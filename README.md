@@ -5,7 +5,7 @@ I'm a student in Faculty of Business Computer from Mahasarakham University, I wa
 
 - 🌱 I’m currently learning **Ajax JQuery**
 
-- 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1aylbir91cWfO3xa8JSFeNHuMb6v4EcaU/view?usp=sharing)
+- 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1KwHGxzQb_OFSzIHHzJDEtVCGXRU7Pg5Y/view?usp=drive_link)
 
 - 📚 Portfolio [Portfolio](https://kanyanat-portfolio.netlify.app/)
 
