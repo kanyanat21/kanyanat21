@@ -9,7 +9,7 @@ I'm a student in Faculty of Business Computer from Mahasarakham University, I wa
 
 - 📚 Portfolio [Portfolio](https://kanyanat-portfolio.netlify.app/)
 
-- 📫 How to reach me **nanta6592@gmail.com**
+- 📫 How to reach me **kanya21nt@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
