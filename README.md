@@ -3,7 +3,7 @@
 
 I'm a student in Faculty of Business Computer from Mahasarakham University, I want to improve in my coding skills and more productivity in my work field.
 
-- 🌱 I’m currently learning **Ajax JQuery**
+- 🌱 I’m currently learning **GO LANG**
 
 - 🔭 Know about my experiences [Resume](https://drive.google.com/file/d/1KwHGxzQb_OFSzIHHzJDEtVCGXRU7Pg5Y/view?usp=drive_link)
 
