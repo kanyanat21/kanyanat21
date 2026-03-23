@@ -16,7 +16,7 @@ I'm a student in Faculty of Business Computer from Mahasarakham University, I wa
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://instagram.com/__84kf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__84kf" height="30" width="40" /></a> -->
-<a href="https://medium.com/@62010912542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@62010912542" height="30" width="40" /></a>
+<a href="mailto:kanya21nt@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="@62010912542" height="30" width="40" /></a>
 <!-- <a href="https://accounts.google.com/SignOutOptions?hl=th&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw" target="blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="mail" height="30" width="40" /></a> -->
 </p>
 
