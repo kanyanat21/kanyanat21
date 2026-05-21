@@ -11,8 +11,6 @@ I'm a student in Faculty of Business Computer from Mahasarakham University, I wa
 
 - 📫 How to reach me **kanya21nt@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://instagram.com/__84kf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__84kf" height="30" width="40" /></a> -->
